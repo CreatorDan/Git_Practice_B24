@@ -8,6 +8,10 @@ public class Third {
 
         System.out.println("Hello Universe");
 
+        System.out.println("Hello World");
+        System.out.println("Hello World");
+        System.out.println("Hello World");
+
 
     }
 }
